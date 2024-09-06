@@ -1,7 +1,6 @@
 Name,Brand Name,Year of Manufacture,Distance Traveled,Fuel Type,Owner Type,Price
 Hyundai Xcent S 1.2,Hyundai,2017,"25,539 km",Petrol,1st owner,₹4.24L
 Hyundai Elite i20 ASTA 1.2,Hyundai,2017,"63,318 km",Petrol,2nd owner,₹6.11L
-Maruti Grand Vitara DELTA SMART HYBRID,Maruti,2017,"28,842 km",Petrol,1st owner,₹12.33L
 Tata Tiago XZA PETROL,Tata,2017,"41,772 km",Petrol,2nd owner,₹4.85L
 Maruti Ertiga VXI AT SHVS,Maruti,2017,"35,378 km",Petrol,1st owner,₹10.84L
 Volkswagen Ameo HIGHLINE1.5L,Volkswagen,2017,"1,08,064 km",Diesel,1st owner,₹5.76L
@@ -13,26 +12,28 @@ Ford Ecosport TITANIUM 1.5L DIESEL,Ford,2017,"92,848 km",Diesel,1st owner,₹6.4
 Maruti Vitara Brezza ZDI,Maruti,2017,"76,173 km",Diesel,1st owner,₹7.51L
 Mahindra XUV700 AX 5 D MT 5 STR,Mahindra,2017,"29,358 km",Diesel,1st owner,₹18.40L
 Maruti Alto 800 LXI,Maruti,2017,"43,780 km",Petrol,1st owner,₹2.33L
-Maruti Swift ZXI,Maruti,2017,"77,053 km",Petrol,1st owner,₹5.26L
+Maruti Swift ZXI,Maruti,2017,"77,053 km",Petrol,1st owner,₹5.38L
 KIA SELTOS HTK PLUS 1.5,KIA,2017,"34,663 km",Petrol,1st owner,₹11.47L
+Maruti Swift VXI,Maruti,2017,"25,847 km",Petrol,2nd owner,₹5.61L
 Honda WR-V 1.2L I-VTEC VX MT,Honda,2017,"29,923 km",Petrol,1st owner,₹7.61L
-Renault Kwid CLIMBER 1.0 (O),Renault,2017,"7,391 km",Petrol,1st owner,₹4.47L
-Honda Amaze 1.2L I-VTEC VX,Honda,2017,"37,615 km",Petrol,1st owner,₹6.89L
+Renault Kwid CLIMBER 1.0 (O),Renault,2017,"7,391 km",Petrol,1st owner,₹4.70L
 Maruti Alto 800 LXI,Maruti,2017,"49,551 km",Petrol,2nd owner,₹2.19L
-Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"74,173 km",Petrol,1st owner,₹6.12L
+Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"74,173 km",Petrol,1st owner,₹6.15L
+Maruti Alto 800 LXI,Maruti,2017,"93,264 km",Petrol,2nd owner,₹2.05L
 Tata NEXON XZA PLUS PETROL,Tata,2017,"32,729 km",Petrol,1st owner,₹9.16L
 Maruti Celerio VXI (O),Maruti,2017,"37,192 km",Petrol,2nd owner,₹4.08L
 Hyundai Creta SX (O) 1.6 PETROL,Hyundai,2017,"83,716 km",Petrol,1st owner,₹10.93L
 Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"88,880 km",Petrol,2nd owner,₹5.38L
 Tata NEXON XZ PLUS PETROL,Tata,2017,"75,042 km",Petrol,1st owner,₹8.34L
 Hyundai Elite i20 ASTA 1.4 CRDI (O),Hyundai,2017,"99,422 km",Diesel,1st owner,₹6.02L
+Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Maruti,2017,"16,453 km",Petrol,1st owner,₹9.03L
 Hyundai NEW SANTRO ERA EXECUTIVE,Hyundai,2017,"52,881 km",Petrol,1st owner,₹4.28L
 Maruti Baleno ZETA CVT PETROL 1.2,Maruti,2017,"62,129 km",Petrol,1st owner,₹6.42L
-Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"53,407 km",Petrol,1st owner,₹5.92L
+Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"53,407 km",Petrol,1st owner,₹6.02L
 Hyundai VENUE SX 1.0 (O) TURBO IMT,Hyundai,2017,"47,544 km",Petrol,1st owner,₹9.54L
-Honda WR-V 1.5L I-DTEC VX MT,Honda,2017,"97,807 km",Diesel,1st owner,₹7.14L
-Hyundai Elite i20 SPORTZ 1.2,Hyundai,2017,"89,807 km",Petrol,1st owner,₹5.61L
-Renault Kwid CLIMBER AMT 1.0,Renault,2017,"25,787 km",Petrol,1st owner,₹5.75L
+Honda WR-V 1.5L I-DTEC VX MT,Honda,2017,"97,807 km",Diesel,1st owner,₹7.25L
+Hyundai Elite i20 SPORTZ 1.2,Hyundai,2017,"89,807 km",Petrol,1st owner,₹5.64L
+Renault Kwid CLIMBER AMT 1.0,Renault,2017,"25,787 km",Petrol,1st owner,₹5.78L
 Honda City 1.5L I-VTE V CVT,Honda,2017,"52,274 km",Petrol,1st owner,₹8.68L
 Volkswagen TAIGUN GT PLUS 1.5 TSI DSG,Volkswagen,2017,"46,791 km",Petrol,1st owner,₹16.86L
 KIA SELTOS GTX PLUS DCT 1.4 PETROL,KIA,2017,"73,142 km",Petrol,1st owner,₹12.71L
@@ -44,14 +45,14 @@ MG HECTOR SHARP 1.5 PETROL CVT,MG,2017,"53,405 km",Petrol,1st owner,₹14.92L
 KIA SELTOS HTK PLUS 1.5,KIA,2017,"67,934 km",Petrol,2nd owner,₹9.81L
 Maruti Celerio ZXI PLUS AGS,Maruti,2017,"3,760 km",Petrol,2nd owner,₹6.50L
 Skoda Rapid MONTE CARLO TSI,Skoda,2017,"57,801 km",Petrol,1st owner,₹8.11L
-Renault Kwid CLIMBER AMT 1.0,Renault,2017,"9,601 km",Petrol,1st owner,₹5.75L
+Renault Kwid CLIMBER AMT 1.0,Renault,2017,"9,601 km",Petrol,1st owner,₹5.78L
 Maruti Alto K10 VXI PLUS AMT,Maruti,2017,"15,262 km",Petrol,1st owner,₹5.65L
-Hyundai NEW SANTRO SPORTZ AMT,Hyundai,2017,"18,628 km",Petrol,1st owner,₹5.74L
+Hyundai NEW SANTRO SPORTZ AMT,Hyundai,2017,"18,628 km",Petrol,1st owner,₹5.75L
 Maruti IGNIS ZETA 1.2,Maruti,2017,"52,488 km",Petrol,1st owner,₹4.98L
 Maruti IGNIS ALPHA 1.2,Maruti,2017,"35,090 km",Petrol,1st owner,₹5.33L
+Honda City 1.5L I-VTEC V MT,Honda,2017,"65,530 km",Petrol,2nd owner,₹4.08L
 Maruti Swift VDI,Maruti,2017,"72,273 km",Diesel,2nd owner,₹6.10L
 Tata ALTROZ XZ PETROL,Tata,2017,"43,222 km",Petrol,1st owner,₹6.92L
-Maruti Alto 800 LXI,Maruti,2017,"58,622 km",Petrol,1st owner,₹2.52L
 Nissan MAGNITE XL TURBO,Nissan,2017,"33,387 km",Petrol,1st owner,₹6.59L
 Tata Tiago XE PETROL,Tata,2017,"57,810 km",Petrol,1st owner,₹4.75L
 Hyundai i20 Active 1.2 SX,Hyundai,2017,"38,799 km",Petrol,1st owner,₹5.65L
@@ -65,8 +66,7 @@ Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,Hyundai,2017,"77,381 km",Petrol,1st own
 Volkswagen Ameo TRENDLINE 1.0L,Volkswagen,2017,"1,16,854 km",Petrol,2nd owner,₹4.98L
 Maruti Alto K10 VXI,Maruti,2017,"81,585 km",Petrol,2nd owner,₹1.85L
 Mahindra BOLERO NEO N 10 (O),Mahindra,2017,"64,550 km",Diesel,1st owner,₹10.00L
-Maruti Swift ZXI AMT,Maruti,2017,"1,06,419 km",Petrol,2nd owner,₹5.36L
-Hyundai Elite i20 ASTA 1.2 (O),Hyundai,2017,"71,208 km",Petrol,1st owner,₹6.74L
+Maruti Swift ZXI AMT,Maruti,2017,"1,06,419 km",Petrol,2nd owner,₹5.28L
 Hyundai Verna 1.6 VTVT SX,Hyundai,2017,"61,985 km",Petrol,1st owner,₹8.14L
 Maruti Dzire VXI,Maruti,2017,"45,407 km",Petrol,1st owner,₹6.90L
 Jeep Compass LIMITED 2.0 DIESEL,Jeep,2017,"1,22,168 km",Diesel,2nd owner,₹10.84L
@@ -79,25 +79,22 @@ Maruti Swift ZDI,Maruti,2017,"1,02,255 km",Diesel,1st owner,₹4.43L
 Tata NEXON XZ PLUS PETROL,Tata,2017,"44,067 km",Petrol,1st owner,₹7.91L
 Maruti BREZZA ZXI SMART HYBRID,Maruti,2017,"22,737 km",Petrol,1st owner,₹11.46L
 Maruti Celerio VXI CNG,Maruti,2017,"48,731 km",CNG,1st owner,₹6.37L
-Honda Amaze 1.2L I-VTEC S,Honda,2017,"88,464 km",Petrol,1st owner,₹5.38L
+Honda Amaze 1.2L I-VTEC S,Honda,2017,"88,464 km",Petrol,1st owner,₹5.52L
 Hyundai i20 Active 1.2 S,Hyundai,2017,"36,643 km",Petrol,1st owner,₹6.77L
 Skoda Rapid STYLE 1.6 MPI AT,Skoda,2017,"55,595 km",Petrol,1st owner,₹7.32L
 Honda WR-V 1.2 i-VTEC S MT,Honda,2017,"59,777 km",Petrol,1st owner,₹6.27L
-Hyundai Elite i20 ASTA 1.2 (O),Hyundai,2017,"32,661 km",Petrol,1st owner,₹7.46L
-Honda City 1.5L I-VTEC SV CVT,Honda,2017,"31,972 km",Petrol,1st owner,₹6.42L
+Hyundai Elite i20 ASTA 1.2 (O),Hyundai,2017,"32,661 km",Petrol,1st owner,₹7.66L
+Honda City 1.5L I-VTEC SV CVT,Honda,2017,"31,972 km",Petrol,1st owner,₹6.55L
 Maruti Swift VXI,Maruti,2017,"69,042 km",Petrol,2nd owner,₹5.09L
 Tata ALTROZ XZA PLUS DARK EDTION,Tata,2017,"28,466 km",Petrol,1st owner,₹8.83L
-Skoda Rapid ACTIVE 1.0 TSI,Skoda,2017,"41,244 km",Petrol,2nd owner,₹6.54L
 Honda City 1.5L I-VTEC ZX CVT,Honda,2017,"29,835 km",Petrol,1st owner,₹12.04L
 Maruti Ritz VXI,Maruti,2017,"42,582 km",Petrol,1st owner,₹2.88L
 Honda Amaze 1.2L I-VTEC S,Honda,2017,"62,540 km",Petrol,2nd owner,₹3.38L
-Tata ALTROZ XZ PETROL,Tata,2017,"44,602 km",Petrol,1st owner,₹6.75L
-Renault Kwid CLIMBER 1.0 AMT (O),Renault,2017,"9,819 km",Petrol,1st owner,₹4.39L
 Mahindra Thar LX P 4WD AT CONVERTIBLE,Mahindra,2017,"32,709 km",Petrol,2nd owner,₹12.45L
 Maruti Dzire VDI AMT,Maruti,2017,"77,742 km",Diesel,1st owner,₹6.43L
 Nissan MAGNITE XV PREMIUM TURBO CVT,Nissan,2017,"13,138 km",Petrol,1st owner,₹8.78L
 Honda City 1.5L I-VTEC ZX,Honda,2017,"59,379 km",Petrol,1st owner,₹8.29L
-Tata Tiago XZ PETROL,Tata,2017,"63,153 km",Petrol,1st owner,₹4.65L
+Tata Tiago XZ PETROL,Tata,2017,"63,153 km",Petrol,1st owner,₹4.77L
 Tata Tiago XT PETROL,Tata,2017,"95,660 km",Petrol,1st owner,₹4.56L
 Hyundai Elite i20 SPORTZ 1.2,Hyundai,2017,"91,444 km",Petrol,2nd owner,₹5.62L
 Renault Kwid CLIMBER 1.0 AMT,Renault,2017,"87,072 km",Petrol,1st owner,₹3.62L
@@ -108,16 +105,16 @@ Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Maruti,2017,"29,010 km",Petrol,1st owner,�
 Renault TRIBER RXT AMT,Renault,2017,"29,617 km",Petrol,1st owner,₹6.88L
 Hyundai Verna FLUIDIC 1.6 CRDI S 4S,Hyundai,2017,"1,00,902 km",Diesel,1st owner,₹5.75L
 Hyundai Creta SX (O) 1.4 TURBO DCT,Hyundai,2017,"46,110 km",Petrol,1st owner,₹16.03L
-Honda City 1.5L I-VTEC V MT,Honda,2017,"56,249 km",Petrol,2nd owner,₹6.62L
+Honda City 1.5L I-VTEC V MT,Honda,2017,"56,249 km",Petrol,2nd owner,₹6.70L
 Renault Kwid CLIMBER 1.0,Renault,2017,"51,288 km",Petrol,2nd owner,₹3.48L
 Maruti Dzire VXI AMT,Maruti,2017,"41,666 km",Petrol,1st owner,₹6.56L
 Honda City 1.5L I-DTEC V,Honda,2017,"76,508 km",Diesel,1st owner,₹7.91L
 Maruti Dzire VDI AMT,Maruti,2017,"95,453 km",Diesel,1st owner,₹6.40L
 Maruti Wagon R 1.0 LXI,Maruti,2017,"61,391 km",Petrol,2nd owner,₹2.95L
 Hyundai i20 SPORTZ 1.2,Hyundai,2017,"85,725 km",Petrol,2nd owner,₹3.11L
-Hyundai i20 SPORTZ 1.4 CRDI,Hyundai,2017,"1,11,819 km",Diesel,2nd owner,₹3.58L
+Hyundai i20 SPORTZ 1.4 CRDI,Hyundai,2017,"1,11,819 km",Diesel,2nd owner,₹3.44L
 Skoda KUSHAQ STYLE 1.0L TSI MT,Skoda,2017,"36,691 km",Petrol,1st owner,₹12.64L
-Hyundai i10 SPORTZ 1.2,Hyundai,2017,"89,916 km",Petrol,1st owner,₹2.53L
+Hyundai i10 SPORTZ 1.2,Hyundai,2017,"89,916 km",Petrol,1st owner,₹2.73L
 Ford Ecosport TREND+ 1.5L DIESEL,Ford,2017,"97,106 km",Diesel,1st owner,₹5.95L
 Tata NEXON XZA PLUS PETROL,Tata,2017,"63,677 km",Petrol,2nd owner,₹8.77L
 Nissan Terrano XL O (D),Nissan,2017,"96,432 km",Diesel,1st owner,₹7.15L
@@ -126,7 +123,7 @@ Hyundai VENUE S 1.0 TURBO IMT,Hyundai,2017,"52,639 km",Petrol,1st owner,₹8.24L
 Hyundai i10 MAGNA 1.2,Hyundai,2017,"91,664 km",Petrol,2nd owner,₹2.43L
 Honda Brio S MT,Honda,2017,"55,189 km",Petrol,2nd owner,₹4.00L
 Ford FREESTYLE TREND 1.2 PETROL,Ford,2017,"60,679 km",Petrol,1st owner,₹5.53L
-Maruti Ritz ZDI,Maruti,2017,"82,552 km",Diesel,1st owner,₹3.75L
+Maruti Ritz ZDI,Maruti,2017,"82,552 km",Diesel,1st owner,₹3.66L
 Hyundai NEW SANTRO ERA EXECUTIVE,Hyundai,2017,"17,789 km",Petrol,1st owner,₹4.75L
 Honda Civic 1.8L I-VTEC ZX CVT,Honda,2017,"87,192 km",Petrol,2nd owner,₹16.26L
 Mahindra Thar LX P 4WD AT CONVERTIBLE,Mahindra,2017,"24,982 km",Petrol,1st owner,₹13.31L
@@ -134,22 +131,21 @@ Renault Kwid RXL,Renault,2017,"45,901 km",Petrol,1st owner,₹3.80L
 Mahindra KUV 100 NXT K8 P 6 STR DUAL TONE,Mahindra,2017,"44,303 km",Petrol,2nd owner,₹5.80L
 Hyundai Eon MAGNA +,Hyundai,2017,"49,315 km",Petrol,2nd owner,₹3.17L
 Hyundai i10 SPORTZ 1.1,Hyundai,2017,"58,416 km",Petrol,2nd owner,₹3.99L
-Maruti Alto 800 LXI,Maruti,2017,"47,179 km",Petrol,1st owner,₹2.93L
+Maruti Alto 800 LXI,Maruti,2017,"47,179 km",Petrol,1st owner,₹2.88L
 Maruti Swift VXI,Maruti,2017,"71,115 km",Petrol,3rd owner,₹3.31L
 Ford Ecosport TITANIUM 1.5L PETROL,Ford,2017,"57,215 km",Petrol,2nd owner,₹7.13L
 Skoda Rapid STYLE 1.5 TDI AT,Skoda,2017,"1,07,669 km",Diesel,2nd owner,₹8.06L
 Honda City 1.5L I-VTEC SV,Honda,2017,"65,051 km",Petrol,3rd owner,₹5.14L
 Mahindra XUV300 W8 (O) 1.5 DIESEL,Mahindra,2017,"38,401 km",Diesel,1st owner,₹11.43L
-Hyundai Elite i20 ASTA (O) CVT,Hyundai,2017,"31,248 km",Petrol,1st owner,₹7.81L
+Hyundai Elite i20 ASTA (O) CVT,Hyundai,2017,"31,248 km",Petrol,1st owner,₹7.78L
 Maruti Dzire VXI AMT,Maruti,2017,"68,760 km",Petrol,1st owner,₹5.99L
 Volkswagen Vento HIGHLINE 1.0L TSI AT,Volkswagen,2017,"50,711 km",Petrol,2nd owner,₹9.39L
-Maruti Swift ZXI AMT,Maruti,2017,"76,836 km",Petrol,1st owner,₹6.37L
+Maruti Swift ZXI AMT,Maruti,2017,"76,836 km",Petrol,1st owner,₹6.57L
 MG HECTOR SHARP 1.5 DCT PETROL,MG,2017,"55,007 km",Petrol,2nd owner,₹14.87L
 Maruti Swift Dzire ZDI,Maruti,2017,"98,752 km",Diesel,1st owner,₹5.27L
 Honda City 1.5L I-VTEC V MT,Honda,2017,"98,048 km",Petrol,1st owner,₹5.15L
 Maruti Baleno ZETA PETROL 1.2,Maruti,2017,"65,323 km",Petrol,1st owner,₹6.95L
 Maruti Dzire VXI AMT,Maruti,2017,"41,774 km",Petrol,1st owner,₹6.81L
-Maruti Baleno ALPHA PETROL 1.2,Maruti,2017,"24,499 km",Petrol,1st owner,₹6.98L
 KIA SELTOS HTX 1.5 DIESEL,KIA,2017,"55,645 km",Diesel,1st owner,₹13.93L
 Hyundai Eon ERA +,Hyundai,2017,"59,689 km",Petrol,1st owner,₹2.42L
 Honda City 1.5L I-VTE V CVT,Honda,2017,"91,659 km",Petrol,2nd owner,₹6.56L
@@ -161,13 +157,12 @@ Maruti XL6 ZETA AT,Maruti,2017,"41,145 km",Petrol,1st owner,₹11.93L
 Hyundai Xcent S 1.2,Hyundai,2017,"35,155 km",Petrol,2nd owner,₹4.05L
 Maruti Celerio X ZXI AMT,Maruti,2017,"68,971 km",Petrol,2nd owner,₹4.49L
 Mahindra Thar LX D 4WD AT CONVERTIBLE,Mahindra,2017,"24,914 km",Diesel,2nd owner,₹13.89L
-Maruti Baleno ALPHA CVT PETROL 1.2,Maruti,2017,"43,363 km",Petrol,1st owner,₹6.70L
-Maruti Swift ZXI,Maruti,2017,"48,194 km",Petrol,1st owner,₹4.68L
-Honda Amaze 1.2L I-VTEC VX CVT,Honda,2017,"21,464 km",Petrol,1st owner,₹8.82L
+Maruti Baleno ALPHA CVT PETROL 1.2,Maruti,2017,"43,363 km",Petrol,1st owner,₹6.66L
+Maruti Swift ZXI,Maruti,2017,"48,194 km",Petrol,1st owner,₹4.35L
 Hyundai Verna 1.6 VTVT SX,Hyundai,2017,"86,015 km",Petrol,1st owner,₹6.68L
 Maruti Wagon R 1.0 VXI+ (O) MT,Maruti,2017,"92,836 km",Petrol,1st owner,₹3.85L
 KIA SELTOS HTX PLUS 1.5 DIESEL,KIA,2017,"71,170 km",Diesel,2nd owner,₹12.70L
-Maruti Wagon R 1.0 VXI,Maruti,2017,"92,102 km",Petrol,1st owner,₹3.86L
+Maruti Wagon R 1.0 VXI,Maruti,2017,"92,102 km",Petrol,1st owner,₹3.70L
 Tata NEXON XM PLUS SUNROOF PETROL,Tata,2017,"10,718 km",Petrol,1st owner,₹9.98L
 Hyundai NEW I20 Asta 1.0 GDI Turbo IMT,Hyundai,2017,"27,958 km",Petrol,2nd owner,₹8.00L
 Honda BR-V 1.5L I-VTEC E,Honda,2017,"1,23,133 km",Petrol,1st owner,₹6.12L
@@ -182,8 +177,8 @@ Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"97,531 km",Petrol,1st owner,₹5.13L
 Maruti Swift VDI ABS,Maruti,2017,"90,513 km",Diesel,1st owner,₹5.21L
 Renault TRIBER RXZ AMT,Renault,2017,"19,391 km",Petrol,1st owner,₹6.03L
 Honda Amaze 1.5L I-DTEC S CVT,Honda,2017,"1,00,516 km",Diesel,1st owner,₹6.43L
-Honda Amaze 1.2L I-VTEC VX,Honda,2017,"20,490 km",Petrol,1st owner,₹6.95L
-Maruti Swift Dzire ZXI,Maruti,2017,"38,023 km",Petrol,1st owner,₹6.23L
+Honda Amaze 1.2L I-VTEC VX,Honda,2017,"20,490 km",Petrol,1st owner,₹6.97L
+Maruti Swift Dzire ZXI,Maruti,2017,"38,023 km",Petrol,1st owner,₹6.06L
 Honda City 1.5L I-DTEC V,Honda,2017,"95,906 km",Diesel,2nd owner,₹5.46L
 MG HECTOR STYLE 1.5 PETROL,MG,2017,"37,073 km",Petrol,1st owner,₹12.30L
 KIA SELTOS HTX IVT 1.5 PETROL,KIA,2017,"36,514 km",Petrol,1st owner,₹11.71L
@@ -198,7 +193,8 @@ Hyundai Creta SX PLUS 1.6 PETROL,Hyundai,2017,"92,148 km",Petrol,1st owner,₹8.
 Honda Jazz 1.2L I-VTEC SV,Honda,2017,"59,005 km",Petrol,1st owner,₹5.17L
 Tata ALTROZ XZ PLUS I-TURBO PETROL,Tata,2017,"13,400 km",Petrol,1st owner,₹8.78L
 Maruti Alto VXI PLUS,Maruti,2017,"24,381 km",Petrol,2nd owner,₹3.75L
-Tata NEXON XZA PLUS PETROL,Tata,2017,"27,320 km",Petrol,1st owner,₹11.26L
+Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"38,401 km",Petrol,2nd owner,₹5.19L
+Tata NEXON XZA PLUS PETROL,Tata,2017,"27,320 km",Petrol,1st owner,₹11.15L
 Hyundai AURA SX PLUS 1.2 AMT,Hyundai,2017,"37,286 km",Petrol,1st owner,₹8.03L
 Skoda KUSHAQ AMBITION 1.0L TSI AT,Skoda,2017,"44,075 km",Petrol,1st owner,₹12.34L
 Hyundai Creta SX 1.6 DIESEL,Hyundai,2017,"1,03,070 km",Diesel,2nd owner,₹8.52L
@@ -208,14 +204,12 @@ Hyundai NEW SANTRO SPORTZ AMT,Hyundai,2017,"66,483 km",Petrol,2nd owner,₹4.73L
 Maruti Celerio ZXI (O),Maruti,2017,"51,182 km",Petrol,2nd owner,₹4.14L
 Renault Duster 110 PS RXZ 4X2 AMT DIESEL,Renault,2017,"93,571 km",Diesel,1st owner,₹6.23L
 Tata TIGOR XZ PLUS PETROL,Tata,2017,"49,158 km",Petrol,1st owner,₹6.95L
-Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"70,045 km",Petrol,1st owner,₹5.92L
+Hyundai GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"70,045 km",Petrol,1st owner,₹5.91L
 Honda WR-V 1.2L I-VTEC VX MT,Honda,2017,"95,683 km",Petrol,1st owner,₹6.70L
-Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"40,354 km",Petrol,1st owner,₹5.10L
 Datsun Redi Go T(O) 1.0,Datsun,2017,"27,984 km",Petrol,1st owner,₹3.41L
-Maruti Ciaz ALPHA 1.5 SHVS PETROL,Maruti,2017,"23,327 km",Petrol,1st owner,₹9.96L
-Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Hyundai,2017,"61,638 km",Petrol,1st owner,₹6.66L
+Hyundai GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Hyundai,2017,"61,638 km",Petrol,1st owner,₹6.57L
 Renault Duster RXZ 1.3 TURBO PETROL MT,Renault,2017,"1,05,742 km",Petrol,1st owner,₹7.70L
-Skoda Rapid STYLE 1.6 MPI AT,Skoda,2017,"1,06,132 km",Petrol,1st owner,₹7.02L
+Skoda Rapid STYLE 1.6 MPI AT,Skoda,2017,"1,06,132 km",Petrol,1st owner,₹6.83L
 Renault TRIBER RXZ AMT,Renault,2017,"37,502 km",Petrol,1st owner,₹7.30L
 Renault Kwid CLIMBER 1.0 AMT (O),Renault,2017,"44,865 km",Petrol,1st owner,₹4.99L
 Maruti Alto VXI PLUS,Maruti,2017,"24,463 km",Petrol,1st owner,₹3.92L
@@ -234,7 +228,7 @@ Skoda Rapid STYLE 1.6 MPI,Skoda,2017,"81,413 km",Petrol,2nd owner,₹8.89L
 Maruti New Wagon-R VXI 1.0 AMT,Maruti,2017,"95,456 km",Petrol,1st owner,₹4.65L
 Maruti IGNIS DELTA 1.2,Maruti,2017,"85,064 km",Petrol,1st owner,₹4.65L
 Renault Kwid RXT 1.0 (O),Renault,2017,"50,141 km",Petrol,2nd owner,₹4.06L
-Tata Tiago XZA PLUS PETROL,Tata,2017,"41,884 km",Petrol,1st owner,₹6.35L
+Tata Tiago XZA PLUS PETROL,Tata,2017,"41,884 km",Petrol,1st owner,₹6.10L
 Hyundai VENUE SX 1.0 TURBO IMT,Hyundai,2017,"58,750 km",Petrol,2nd owner,₹8.26L
 Hyundai NEW SANTRO SPORTZ MT,Hyundai,2017,"28,540 km",Petrol,1st owner,₹4.76L
 Maruti Ciaz ALPHA 1.4 PETROL,Maruti,2017,"98,119 km",Petrol,1st owner,₹6.57L
@@ -265,14 +259,14 @@ Maruti Alto 800 LXI,Maruti,2017,"56,113 km",Petrol,2nd owner,₹2.19L
 Tata NEXON XZA PLUS (L),Tata,2017,"32,111 km",Petrol,1st owner,₹11.13L
 Hyundai Creta SX (O) 1.4 TURBO DCT,Hyundai,2017,"50,026 km",Petrol,1st owner,₹16.01L
 Hyundai Santro Xing GL PLUS,Hyundai,2017,"50,123 km",Petrol,1st owner,₹2.33L
-Maruti IGNIS DELTA 1.2,Maruti,2017,"72,496 km",Petrol,2nd owner,₹4.51L
+Maruti IGNIS DELTA 1.2,Maruti,2017,"72,496 km",Petrol,2nd owner,₹4.79L
 Maruti IGNIS DELTA 1.2,Maruti,2017,"77,579 km",Petrol,2nd owner,₹4.29L
 Datsun Redi Go T(O) 1.0,Datsun,2017,"39,435 km",Petrol,1st owner,₹3.41L
 Hyundai i20 MAGNA (O) 1.2,Hyundai,2017,"93,056 km",Petrol,2nd owner,₹3.65L
-Maruti Celerio ZXI AMT,Maruti,2017,"75,112 km",Petrol,1st owner,₹4.01L
-KIA SELTOS GTX PLUS DCT 1.4 PETROL,KIA,2017,"49,257 km",Petrol,1st owner,₹14.59L
+Maruti Celerio ZXI AMT,Maruti,2017,"75,112 km",Petrol,1st owner,₹3.86L
+KIA SELTOS GTX PLUS DCT 1.4 PETROL,KIA,2017,"49,257 km",Petrol,1st owner,₹14.00L
 Maruti Baleno ZETA PETROL 1.2,Maruti,2017,"31,968 km",Petrol,1st owner,₹6.93L
-Tata ALTROZ XZ PETROL,Tata,2017,"36,608 km",Petrol,1st owner,₹8.06L
+Tata ALTROZ XZ PETROL,Tata,2017,"36,608 km",Petrol,1st owner,₹8.04L
 Honda City 1.5L I-VTEC VX CVT,Honda,2017,"53,631 km",Petrol,1st owner,₹8.67L
 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,Hyundai,2017,"45,619 km",Petrol,1st owner,₹5.32L
 Hyundai i10 MAGNA 1.2,Hyundai,2017,"54,312 km",Petrol,2nd owner,₹3.09L
@@ -290,6 +284,7 @@ Hyundai Creta SX PLUS AT 1.6 DIESEL,Hyundai,2017,"95,778 km",Diesel,1st owner,�
 Hyundai VENUE SX PLUS 1.0 TURBO DCT,Hyundai,2017,"60,269 km",Petrol,1st owner,₹9.24L
 Maruti Celerio ZXI AMT (O),Maruti,2017,"87,744 km",Petrol,1st owner,₹4.83L
 Maruti IGNIS ZETA 1.2 AMT,Maruti,2017,"39,347 km",Petrol,1st owner,₹5.38L
+Maruti New Wagon-R VXI 1.2,Maruti,2017,"52,608 km",Petrol,2nd owner,₹5.04L
 Maruti Ciaz ZETA 1.4 AT PETROL,Maruti,2017,"88,132 km",Petrol,1st owner,₹7.90L
 Maruti Alto K10 VXI AMT,Maruti,2017,"85,292 km",Petrol,1st owner,₹3.17L
 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"63,423 km",Petrol,2nd owner,₹4.23L
@@ -297,15 +292,14 @@ Nissan Micra XL (O) CVT,Nissan,2017,"41,059 km",Petrol,2nd owner,₹4.98L
 Renault Duster 110 PS RXZ 4X2 AMT DIESEL,Renault,2017,"1,01,085 km",Diesel,1st owner,₹6.23L
 Volkswagen TAIGUN HIGHLINE 1.0 TSI AT,Volkswagen,2017,"61,526 km",Petrol,1st owner,₹12.89L
 Maruti Dzire ZXI PLUS AMT,Maruti,2017,"72,891 km",Petrol,2nd owner,₹6.16L
-Maruti Alto K10 VXI,Maruti,2017,"70,050 km",Petrol,2nd owner,₹2.28L
-Maruti Baleno ZETA PETROL 1.2,Maruti,2017,"58,448 km",Petrol,1st owner,₹6.74L
-Hyundai i10 SPORTZ 1.1,Hyundai,2017,"38,659 km",Petrol,1st owner,₹4.21L
+Maruti Alto K10 VXI,Maruti,2017,"70,050 km",Petrol,2nd owner,₹2.25L
+Maruti Baleno ZETA PETROL 1.2,Maruti,2017,"58,448 km",Petrol,1st owner,₹6.75L
+Hyundai i10 SPORTZ 1.1,Hyundai,2017,"38,659 km",Petrol,1st owner,₹4.24L
 Maruti Swift ZXI,Maruti,2017,"1,18,573 km",Petrol,1st owner,₹4.99L
 Tata NEXON XZ PLUS (PREMIUM) PETROL,Tata,2017,"22,121 km",Petrol,1st owner,₹11.34L
-Maruti Baleno ALPHA PETROL 1.2,Maruti,2017,"49,533 km",Petrol,1st owner,₹8.18L
+Maruti Baleno ALPHA PETROL 1.2,Maruti,2017,"49,533 km",Petrol,1st owner,₹8.54L
 Hyundai Creta SX PLUS AT 1.6 PETROL,Hyundai,2017,"64,706 km",Petrol,2nd owner,₹9.73L
-Maruti Alto K10 LXI,Maruti,2017,"16,628 km",Petrol,1st owner,₹4.49L
-Honda City 1.5L I-VTEC V MT,Honda,2017,"1,13,962 km",Petrol,1st owner,₹7.00L
+Honda City 1.5L I-VTEC V MT,Honda,2017,"1,13,962 km",Petrol,1st owner,₹7.12L
 Volkswagen TAIGUN TOPLINE 1.0 TSI AT,Volkswagen,2017,"35,918 km",Petrol,1st owner,₹14.54L
 Hyundai i10 MAGNA 1.1,Hyundai,2017,"91,398 km",Petrol,1st owner,₹3.38L
 Maruti Alto LXI,Maruti,2017,"30,292 km",Petrol,1st owner,₹3.53L
@@ -315,11 +309,12 @@ KIA SONET GTX PLUS 1.0 IMT,KIA,2017,"40,234 km",Petrol,1st owner,₹10.82L
 Maruti Celerio ZXI AMT,Maruti,2017,"24,059 km",Petrol,1st owner,₹5.95L
 Maruti New Wagon-R VXI (O) 1.2 AMT,Maruti,2017,"37,541 km",Petrol,1st owner,₹5.81L
 Hyundai NEW SANTRO SPORTZ AMT,Hyundai,2017,"72,395 km",Petrol,1st owner,₹5.08L
-Maruti S PRESSO VXI+,Maruti,2017,"26,875 km",Petrol,2nd owner,₹4.40L
-Maruti Wagon R 1.0 VXI,Maruti,2017,"66,341 km",Petrol,1st owner,₹4.08L
-Honda Amaze 1.2L I-VTEC S,Honda,2017,"95,495 km",Petrol,1st owner,₹4.07L
+Maruti S PRESSO VXI+,Maruti,2017,"26,875 km",Petrol,2nd owner,₹4.39L
+Maruti Wagon R 1.0 VXI,Maruti,2017,"66,341 km",Petrol,1st owner,₹4.05L
+Honda Amaze 1.2L I-VTEC S,Honda,2017,"95,495 km",Petrol,1st owner,₹4.13L
 Maruti Celerio X ZXI AMT,Maruti,2017,"52,328 km",Petrol,1st owner,₹5.14L
 Tata NEXON XZA PLUS DIESEL DUAL TONE,Tata,2017,"54,466 km",Diesel,2nd owner,₹9.51L
+Tata NEXON XZA PLUS (O) PETROL,Tata,2017,"24,019 km",Petrol,1st owner,₹10.70L
 Maruti Alto LXI,Maruti,2017,"13,485 km",Petrol,1st owner,₹3.53L
 Maruti Wagon R 1.0 LXI,Maruti,2017,"76,750 km",Petrol,1st owner,₹2.85L
 Maruti Alto 800 LXI,Maruti,2017,"48,658 km",Petrol,2nd owner,₹2.19L
@@ -328,7 +323,7 @@ Maruti New Wagon-R VXI 1.2 AMT,Maruti,2017,"50,380 km",Petrol,2nd owner,₹5.02L
 Hyundai Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Hyundai,2017,"72,376 km",Petrol,2nd owner,₹5.11L
 Renault Duster RXS CVT,Renault,2017,"96,474 km",Petrol,1st owner,₹6.91L
 Hyundai Verna SX 1.5 VTVT IVT,Hyundai,2017,"37,842 km",Petrol,1st owner,₹12.75L
-Hyundai i10 SPORTZ 1.2,Hyundai,2017,"75,146 km",Petrol,1st owner,₹2.46L
+Hyundai i10 SPORTZ 1.2,Hyundai,2017,"75,300 km",Petrol,1st owner,₹2.46L
 Honda Brio VX AT,Honda,2017,"82,163 km",Petrol,2nd owner,₹3.73L
 Maruti IGNIS DELTA 1.2 AMT,Maruti,2017,"33,509 km",Petrol,1st owner,₹5.17L
 Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,Hyundai,2017,"1,06,313 km",Petrol,1st owner,₹4.28L
@@ -341,35 +336,32 @@ Tata NEXON XZA PLUS (O) PETROL DUAL TONE,Tata,2017,"85,380 km",Petrol,2nd owner,
 Maruti IGNIS DELTA 1.2,Maruti,2017,"77,633 km",Petrol,1st owner,₹5.12L
 MG HECTOR SHARP HYBRID 1.5 PETROL,MG,2017,"36,582 km",Petrol,1st owner,₹15.54L
 Maruti Celerio VXI AMT,Maruti,2017,"98,335 km",Petrol,1st owner,₹3.65L
-Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,Hyundai,2017,"81,987 km",Petrol,1st owner,₹4.11L
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,Hyundai,2017,"81,987 km",Petrol,1st owner,₹4.10L
 Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"93,648 km",Petrol,3rd owner,₹5.47L
 Maruti Wagon R 1.0 VXI AMT,Maruti,2017,"99,726 km",Petrol,1st owner,₹4.18L
 Maruti Celerio ZXI AMT,Maruti,2017,"17,447 km",Petrol,1st owner,₹6.34L
 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"1,01,404 km",Petrol,2nd owner,₹4.12L
-Maruti S PRESSO VXI+,Maruti,2017,"46,355 km",Petrol,1st owner,₹4.36L
-Maruti Wagon R 1.0 VXI AMT,Maruti,2017,"82,834 km",Petrol,1st owner,₹3.72L
+Maruti S PRESSO VXI+,Maruti,2017,"46,355 km",Petrol,1st owner,₹4.46L
 Maruti Wagon R 1.0 VXI,Maruti,2017,"76,210 km",Petrol,1st owner,₹4.10L
 Maruti Alto K10 VXI,Maruti,2017,"1,02,545 km",Petrol,1st owner,₹3.13L
 Maruti New Wagon-R ZXI 1.2,Maruti,2017,"22,594 km",Petrol,1st owner,₹5.70L
 Hyundai Grand i10 SPORTZ AT 1.2 KAPPA VTVT,Hyundai,2017,"86,050 km",Petrol,2nd owner,₹4.10L
-Maruti Alto 800 LXI,Maruti,2017,"63,989 km",Petrol,2nd owner,₹2.78L
+Maruti Alto 800 LXI,Maruti,2017,"63,989 km",Petrol,2nd owner,₹2.75L
 Maruti New Wagon-R VXI (O) 1.2 AMT,Maruti,2017,"26,074 km",Petrol,1st owner,₹5.68L
 Maruti New Wagon-R ZXI 1.2,Maruti,2017,"52,823 km",Petrol,1st owner,₹5.15L
 Honda Jazz 1.2L I-VTEC SV,Honda,2017,"91,922 km",Petrol,3rd owner,₹5.16L
-Tata ALTROZ XZ PETROL,Tata,2017,"35,548 km",Petrol,1st owner,₹7.29L
+Tata ALTROZ XZ PETROL,Tata,2017,"35,548 km",Petrol,1st owner,₹7.38L
 Hyundai NEW SANTRO ASTA MT,Hyundai,2017,"42,064 km",Petrol,1st owner,₹5.27L
 Hyundai Grand i10 ASTA 1.1 CRDI,Hyundai,2017,"1,01,450 km",Diesel,2nd owner,₹4.15L
-Honda Brio S MT,Honda,2017,"82,612 km",Petrol,3rd owner,₹3.13L
-Maruti New Wagon-R VXI 1.0 AMT,Maruti,2017,"9,301 km",Petrol,1st owner,₹5.96L
+Maruti New Wagon-R VXI 1.0 AMT,Maruti,2017,"9,301 km",Petrol,1st owner,₹5.84L
 Renault Kwid CLIMBER 1.0 AMT (O),Renault,2017,"10,835 km",Petrol,1st owner,₹5.00L
 Maruti New Wagon-R VXI 1.0,Maruti,2017,"40,215 km",Petrol,1st owner,₹5.27L
 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Maruti,2017,"57,002 km",Petrol,1st owner,₹9.61L
 Maruti New Wagon-R VXI 1.2,Maruti,2017,"49,347 km",Petrol,1st owner,₹4.99L
 Maruti Wagon R 1.0 VXI,Maruti,2017,"69,455 km",Petrol,1st owner,₹3.31L
-Maruti New Wagon-R VXI 1.2,Maruti,2017,"48,833 km",Petrol,1st owner,₹5.05L
 Maruti Wagon R 1.0 VXI,Maruti,2017,"83,098 km",Petrol,2nd owner,₹3.24L
 Hyundai GRAND I10 NIOS ASTA U2 1.2 CRDI,Hyundai,2017,"84,977 km",Diesel,2nd owner,₹6.85L
-Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,Hyundai,2017,"77,723 km",Petrol,1st owner,₹4.59L
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,Hyundai,2017,"77,723 km",Petrol,1st owner,₹4.66L
 Hyundai NEW SANTRO SPORTZ AMT,Hyundai,2017,"15,729 km",Petrol,1st owner,₹5.74L
 Maruti Wagon R 1.0 VXI,Maruti,2017,"76,186 km",Petrol,1st owner,₹3.26L
 Hyundai NEW SANTRO ASTA AMT,Hyundai,2017,"48,844 km",Petrol,1st owner,₹5.99L
@@ -377,16 +369,15 @@ Maruti Celerio ZXI (O),Maruti,2017,"76,079 km",Petrol,1st owner,₹4.47L
 Maruti Celerio ZXI,Maruti,2017,"99,910 km",Petrol,2nd owner,₹4.50L
 Maruti Alto LXI O,Maruti,2017,"26,385 km",Petrol,1st owner,₹3.97L
 Maruti Baleno ZETA CVT PETROL 1.2,Maruti,2017,"86,242 km",Petrol,1st owner,₹7.18L
-Maruti Alto VXI PLUS,Maruti,2017,"29,652 km",Petrol,1st owner,₹4.47L
+Maruti Alto VXI PLUS,Maruti,2017,"29,652 km",Petrol,1st owner,₹4.45L
 Maruti Alto K10 VXI AMT,Maruti,2017,"17,627 km",Petrol,2nd owner,₹3.28L
-Maruti Swift VXI,Maruti,2017,"78,023 km",Petrol,1st owner,₹5.46L
+Maruti Swift VXI,Maruti,2017,"78,023 km",Petrol,1st owner,₹5.39L
 Hyundai GRAND I10 NIOS MAGNA 1.2 KAPPA VTVT,Hyundai,2017,"10,298 km",Petrol,1st owner,₹5.54L
 Hyundai Creta SX (O) 1.6 PETROL,Hyundai,2017,"98,097 km",Petrol,1st owner,₹10.74L
 KIA SONET HTX ANNIVERSARY EDITION 1.0 IMT,KIA,2017,"21,993 km",Petrol,1st owner,₹10.52L
 Toyota Innova 2.5 GX 8 STR,Toyota,2017,"82,593 km",Diesel,1st owner,₹11.50L
 Hyundai Elite i20 MAGNA PLUS 1.2,Hyundai,2017,"44,820 km",Petrol,1st owner,₹5.93L
 Ford Ecosport TITANIUM 1.5L PETROL AT,Ford,2017,"79,181 km",Petrol,1st owner,₹7.59L
-Honda Jazz 1.2L I-VTEC V AT,Honda,2017,"66,797 km",Petrol,1st owner,₹5.51L
 Datsun Go Plus T,Datsun,2017,"12,049 km",Petrol,1st owner,₹4.13L
 Datsun Redi Go S,Datsun,2017,"83,097 km",Petrol,1st owner,₹2.16L
 Maruti Baleno ALPHA PETROL 1.2,Maruti,2017,"31,283 km",Petrol,1st owner,₹8.58L
@@ -404,19 +395,24 @@ Maruti Wagon R 1.0 VXI,Maruti,2017,"29,956 km",Petrol,1st owner,₹3.75L
 Maruti Alto K10 VXI PLUS AMT,Maruti,2017,"8,023 km",Petrol,1st owner,₹5.65L
 Maruti Alto VXI,Maruti,2017,"19,886 km",Petrol,1st owner,₹4.24L
 Mahindra XUV500 W9,Mahindra,2017,"59,716 km",Diesel,1st owner,₹14.66L
-Tata Tiago XT PETROL,Tata,2017,"10,788 km",Petrol,1st owner,₹6.61L
-Volkswagen Polo HIGHLINE 1.0L,Volkswagen,2017,"70,445 km",Petrol,1st owner,₹7.08L
-Renault Kwid CLIMBER 1.0 (O),Renault,2017,"29,495 km",Petrol,2nd owner,₹4.12L
+Honda Amaze 1.2L I-VTEC V,Honda,2017,"37,617 km",Petrol,1st owner,₹6.79L
+MG HECTOR SHARP 1.5 DCT PETROL,MG,2017,"62,238 km",Petrol,1st owner,₹12.84L
+Tata Tiago XT PETROL,Tata,2017,"10,788 km",Petrol,1st owner,₹6.71L
+Volkswagen Polo HIGHLINE 1.0L,Volkswagen,2017,"70,445 km",Petrol,1st owner,₹7.26L
+Renault Kwid CLIMBER 1.0 (O),Renault,2017,"29,495 km",Petrol,2nd owner,₹4.16L
 Tata Tiago XM PETROL,Tata,2017,"57,439 km",Petrol,1st owner,₹4.27L
 Hyundai Creta SX (O) 1.4 TURBO DCT,Hyundai,2017,"48,344 km",Petrol,2nd owner,₹15.54L
-Mahindra Thar LX PETROL HT 4WD AT,Mahindra,2017,"26,217 km",Petrol,2nd owner,₹15.27L
-Tata TIGOR XZ PLUS PETROL,Tata,2017,"50,947 km",Petrol,1st owner,₹6.98L
+Renault Kwid RXT 0.8,Renault,2017,"64,156 km",Petrol,2nd owner,₹2.33L
+Mahindra Thar LX PETROL HT 4WD AT,Mahindra,2017,"26,217 km",Petrol,2nd owner,₹15.08L
+Tata TIGOR XZ PLUS PETROL,Tata,2017,"50,947 km",Petrol,1st owner,₹6.74L
 Toyota URBAN CRUISER PREMIUM GRADE MT,Toyota,2017,"8,351 km",Petrol,1st owner,₹10.04L
 Tata NEXON XZ PLUS PETROL DUAL TONE,Tata,2017,"22,648 km",Petrol,1st owner,₹8.99L
 Hyundai Creta SX IVT 1.5 PETROL,Hyundai,2017,"48,096 km",Petrol,2nd owner,₹12.87L
 Maruti Swift ZXI PLUS AMT,Maruti,2017,"46,843 km",Petrol,1st owner,₹7.35L
+Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"61,116 km",Petrol,1st owner,₹5.65L
 Honda Amaze 1.5L I-DTEC S,Honda,2017,"42,581 km",Diesel,1st owner,₹4.90L
 Mahindra XUV700 AX 7 P MT 7 STR,Mahindra,2017,"18,132 km",Petrol,1st owner,₹19.34L
+Mahindra XUV700 AX 7 P MT 7 STR,Mahindra,2017,"52,387 km",Petrol,1st owner,₹18.33L
 Maruti Swift VXI,Maruti,2017,"64,828 km",Petrol,1st owner,₹5.63L
 Tata Tiago XT PETROL,Tata,2017,"76,411 km",Petrol,1st owner,₹5.08L
 Tata Tiago XZ PLUS PETROL,Tata,2017,"64,589 km",Petrol,1st owner,₹5.32L
@@ -424,13 +420,14 @@ KIA SONET HTX 1.0 IMT,KIA,2017,"24,023 km",Petrol,2nd owner,₹9.22L
 Mahindra XUV300 W8 (O) 1.2 PETROL,Mahindra,2017,"35,796 km",Petrol,1st owner,₹10.98L
 Tata NEXON XM PETROL,Tata,2017,"53,746 km",Petrol,1st owner,₹8.01L
 Hyundai Creta SX (O) IVT 1.5 PETROL,Hyundai,2017,"14,590 km",Petrol,1st owner,₹16.98L
-Skoda Rapid AMBITION 1.5 TDI,Skoda,2017,"1,18,710 km",Diesel,1st owner,₹7.23L
+Skoda Rapid AMBITION 1.5 TDI,Skoda,2017,"1,18,710 km",Diesel,1st owner,₹6.98L
+Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,Hyundai,2017,"69,383 km",Petrol,2nd owner,₹4.57L
 KIA SELTOS GTX PLUS 1.5 DIESEL AT,KIA,2017,"20,863 km",Diesel,1st owner,₹18.21L
-Maruti New Wagon-R LXI CNG (O) 1.0,Maruti,2017,"63,314 km",CNG,1st owner,₹5.61L
+Maruti New Wagon-R LXI CNG (O) 1.0,Maruti,2017,"63,314 km",CNG,1st owner,₹5.73L
 Tata NEXON XZA PLUS DIESEL,Tata,2017,"25,552 km",Diesel,1st owner,₹11.36L
-Hyundai Elite i20 ASTA 1.2 DUAL TONE,Hyundai,2017,"87,637 km",Petrol,1st owner,₹6.51L
-Datsun Redi Go S 1.0 AMT,Datsun,2017,"49,754 km",Petrol,1st owner,₹3.24L
+Hyundai Elite i20 ASTA 1.2 DUAL TONE,Hyundai,2017,"87,637 km",Petrol,1st owner,₹6.61L
 Hyundai VENUE S(O) 1.2,Hyundai,2017,"21,510 km",Petrol,1st owner,₹9.44L
+Maruti Dzire VXI AMT,Maruti,2017,"15,833 km",Petrol,1st owner,₹7.80L
 Hyundai Elite i20 ASTA 1.2,Hyundai,2017,"88,526 km",Petrol,1st owner,₹5.15L
 Honda City 1.5L I-VTEC V MT,Honda,2017,"64,197 km",Petrol,1st owner,₹7.53L
 Hyundai Elite i20 ASTA 1.2,Hyundai,2017,"29,076 km",Petrol,1st owner,₹6.42L
@@ -442,45 +439,46 @@ Volkswagen VIRTUS HIGHLINE TSI 1.0 MT,Volkswagen,2017,"19,255 km",Petrol,1st own
 Renault TRIBER RXZ,Renault,2017,"61,773 km",Petrol,2nd owner,₹6.14L
 Tata Tiago XZA PETROL,Tata,2017,"41,120 km",Petrol,2nd owner,₹4.75L
 Mahindra XUV500 W7,Mahindra,2017,"47,691 km",Diesel,1st owner,₹11.27L
-Hyundai Elite i20 ASTA 1.2 (O),Hyundai,2017,"72,656 km",Petrol,1st owner,₹7.59L
-Maruti Vitara Brezza VXI,Maruti,2017,"32,994 km",Petrol,2nd owner,₹7.46L
+Hyundai Elite i20 ASTA 1.2 (O),Hyundai,2017,"72,656 km",Petrol,1st owner,₹7.56L
 Maruti Ertiga VXI AT SHVS,Maruti,2017,"25,009 km",Petrol,1st owner,₹8.93L
 Volkswagen Ameo HIGHLINE1.2L,Volkswagen,2017,"61,167 km",Petrol,1st owner,₹5.14L
 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"1,07,168 km",Petrol,1st owner,₹3.82L
-Maruti Vitara Brezza ZXI AT SHVS,Maruti,2017,"35,713 km",Petrol,2nd owner,₹9.38L
+Maruti Vitara Brezza ZXI AT SHVS,Maruti,2017,"35,713 km",Petrol,2nd owner,₹9.40L
 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Maruti,2017,"66,803 km",Petrol,2nd owner,₹7.18L
 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,Hyundai,2017,"31,822 km",Petrol,1st owner,₹4.86L
 Skoda SLAVIA STYLE 1.0L TSI AT,Skoda,2017,"30,564 km",Petrol,1st owner,₹15.03L
 Maruti Swift ZDI,Maruti,2017,"73,764 km",Diesel,1st owner,₹4.57L
+Honda Jazz 1.2L I-VTEC V AT,Honda,2017,"77,402 km",Petrol,1st owner,₹5.72L
 KIA SONET HTK PLUS 1.2,KIA,2017,"36,373 km",Petrol,1st owner,₹8.98L
+Datsun Redi Go S,Datsun,2017,"90,601 km",Petrol,1st owner,₹2.16L
 Tata Tiago XZA PETROL,Tata,2017,"88,033 km",Petrol,1st owner,₹5.00L
 Skoda Rapid STYLE 1.6 MPI,Skoda,2017,"94,695 km",Petrol,1st owner,₹8.49L
 Maruti Baleno ZETA PETROL 1.2,Maruti,2017,"52,544 km",Petrol,1st owner,₹7.21L
 Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT DUAL TONE,Hyundai,2017,"94,673 km",Petrol,1st owner,₹4.97L
-Ford Ecosport TITANIUM 1.5L DIESEL,Ford,2017,"98,881 km",Diesel,2nd owner,₹5.14L
-Maruti Celerio VXI AMT (O),Maruti,2017,"74,635 km",Petrol,1st owner,₹4.06L
+Ford Ecosport TITANIUM 1.5L DIESEL,Ford,2017,"98,881 km",Diesel,2nd owner,₹5.25L
+Maruti Celerio VXI AMT (O),Maruti,2017,"74,635 km",Petrol,1st owner,₹4.18L
 Honda Amaze 1.2L I-VTEC VX,Honda,2017,"24,093 km",Petrol,1st owner,₹7.56L
 Renault Duster RXS CVT,Renault,2017,"11,183 km",Petrol,2nd owner,₹8.16L
 Hyundai Grand i10 MAGNA 1.2 KAPPA VTVT,Hyundai,2017,"61,237 km",Petrol,2nd owner,₹4.48L
 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Maruti,2017,"20,719 km",Petrol,1st owner,₹8.98L
 KIA SELTOS HTK PLUS 1.5 DIESEL,KIA,2017,"48,799 km",Diesel,1st owner,₹12.70L
-Hyundai i10 ASTA 1.2 AT SUNROOF,Hyundai,2017,"32,902 km",Petrol,1st owner,₹4.13L
-Maruti Baleno DELTA DIESEL 1.3,Maruti,2017,"86,448 km",Diesel,1st owner,₹6.28L
+Hyundai i10 ASTA 1.2 AT SUNROOF,Hyundai,2017,"32,902 km",Petrol,1st owner,₹3.88L
+Maruti Baleno DELTA DIESEL 1.3,Maruti,2017,"86,448 km",Diesel,1st owner,₹6.44L
 Hyundai Verna FLUIDIC 1.6 CRDI SX,Hyundai,2017,"1,19,088 km",Diesel,3rd owner,₹3.98L
-Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"71,416 km",Petrol,1st owner,₹4.79L
-Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"38,086 km",Petrol,2nd owner,₹5.00L
-Tata ALTROZ XZ PETROL,Tata,2017,"37,354 km",Petrol,1st owner,₹7.69L
-Maruti S PRESSO VXI+,Maruti,2017,"16,759 km",Petrol,1st owner,₹4.48L
+Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"71,416 km",Petrol,1st owner,₹4.81L
+Hyundai Grand i10 SPORTZ 1.2 KAPPA VTVT,Hyundai,2017,"38,086 km",Petrol,2nd owner,₹4.95L
+Maruti Celerio ZXI AMT,Maruti,2017,"18,827 km",Petrol,1st owner,₹4.59L
+Tata ALTROZ XZ PETROL,Tata,2017,"37,354 km",Petrol,1st owner,₹7.63L
+Maruti S PRESSO VXI+,Maruti,2017,"16,759 km",Petrol,1st owner,₹4.55L
 Hyundai Elite i20 SPORTZ 1.2,Hyundai,2017,"76,720 km",Petrol,1st owner,₹5.56L
 Maruti Ertiga VXI AT SHVS,Maruti,2017,"37,985 km",Petrol,1st owner,₹9.33L
 Maruti IGNIS DELTA 1.2 AMT,Maruti,2017,"90,874 km",Petrol,2nd owner,₹4.61L
 Renault Kwid RXL,Renault,2017,"51,033 km",Petrol,1st owner,₹3.25L
-Tata NEXON XZA PLUS (O) PETROL DARK EDITION,Tata,2017,"56,295 km",Petrol,1st owner,₹10.99L
+Honda Amaze 1.2L I-VTEC S,Honda,2017,"42,353 km",Petrol,1st owner,₹5.32L
 Maruti Celerio VXI AMT,Maruti,2017,"35,486 km",Petrol,1st owner,₹3.68L
+Maruti Grand Vitara DELTA SMART HYBRID,Maruti,2017,"28,842 km",Petrol,1st owner,₹12.33L
 Mahindra Thar LX HT PETROL 4WD MT,Mahindra,2017,"23,965 km",Petrol,1st owner,₹12.83L
 Maruti Swift Dzire VDI,Maruti,2017,"1,09,035 km",Diesel,2nd owner,₹4.23L
-Maruti S PRESSO VXI,Maruti,2017,"50,645 km",Petrol,1st owner,₹3.73L
-Maruti Swift VXI,Maruti,2017,"25,847 km",Petrol,2nd owner,₹5.61L
 Toyota Glanza V,Toyota,2017,"31,957 km",Petrol,1st owner,₹7.28L
 Hyundai Elite i20 ASTA 1.4 CRDI (O),Hyundai,2017,"1,15,435 km",Diesel,1st owner,₹7.25L
 Maruti Baleno ZETA PETROL 1.2,Maruti,2017,"60,017 km",Petrol,1st owner,₹6.17L
@@ -490,27 +488,30 @@ Maruti Swift ZXI PLUS AMT,Maruti,2017,"49,070 km",Petrol,1st owner,₹6.30L
 Maruti BREZZA ZXI SMART HYBRID,Maruti,2017,"12,590 km",Petrol,1st owner,₹11.46L
 Maruti Vitara Brezza ZDI,Maruti,2017,"1,11,621 km",Diesel,2nd owner,₹7.63L
 Ford FREESTYLE TITANIUM PLUS 1.2 PETROL,Ford,2017,"56,901 km",Petrol,2nd owner,₹4.66L
+Skoda Rapid ACTIVE 1.0 TSI,Skoda,2017,"41,244 km",Petrol,2nd owner,₹6.54L
+Tata ALTROZ XZ PETROL,Tata,2017,"44,602 km",Petrol,1st owner,₹6.82L
 Hyundai Creta SX 1.6 PETROL,Hyundai,2017,"19,394 km",Petrol,1st owner,₹10.52L
-Honda Amaze 1.2L I-VTEC S,Honda,2017,"97,920 km",Petrol,2nd owner,₹3.58L
 Honda Amaze 1.2L I-VTEC S CVT,Honda,2017,"55,918 km",Petrol,1st owner,₹6.23L
 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Maruti,2017,"50,172 km",Petrol,1st owner,₹7.61L
 KIA SONET GTX PLUS 1.5,KIA,2017,"59,656 km",Diesel,1st owner,₹11.39L
+Maruti Baleno ALPHA PETROL 1.2,Maruti,2017,"24,499 km",Petrol,1st owner,₹6.98L
 Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"61,979 km",Petrol,1st owner,₹6.37L
+Honda Amaze 1.2L I-VTEC VX CVT,Honda,2017,"21,464 km",Petrol,1st owner,₹8.82L
 Maruti Alto 800 VXI O,Maruti,2017,"92,881 km",Petrol,1st owner,₹2.64L
-Honda Amaze 1.2L I-VTEC VX CVT,Honda,2017,"29,367 km",Petrol,2nd owner,₹7.40L
 Honda Jazz 1.2L I-VTEC V,Honda,2017,"53,380 km",Petrol,2nd owner,₹5.39L
+Maruti Alto K10 LXI,Maruti,2017,"16,628 km",Petrol,1st owner,₹4.49L
 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Maruti,2017,"50,723 km",Petrol,2nd owner,₹7.63L
+Maruti Wagon R 1.0 VXI AMT,Maruti,2017,"82,834 km",Petrol,1st owner,₹3.72L
 Honda City 1.5L I-VTEC VX,Honda,2017,"15,890 km",Petrol,1st owner,₹8.93L
 Maruti Swift ZXI,Maruti,2017,"62,166 km",Petrol,1st owner,₹6.79L
+Honda Jazz 1.2L I-VTEC V AT,Honda,2017,"66,797 km",Petrol,1st owner,₹5.51L
 Honda Amaze 1.5L I-DTEC E,Honda,2017,"98,718 km",Diesel,1st owner,₹3.47L
-Datsun Redi Go T(O) 1.0 AMT,Datsun,2017,"26,928 km",Petrol,1st owner,₹2.96L
+Mahindra Thar CRDE 4X4 AC,Mahindra,2017,"34,302 km",Diesel,1st owner,₹7.49L
 Honda WR-V 1.2L I-VTEC VX MT,Honda,2017,"30,049 km",Petrol,2nd owner,₹7.34L
-Renault Kwid RXT 0.8,Renault,2017,"64,156 km",Petrol,2nd owner,₹2.33L
-Tata NEXON XM PETROL,Tata,2017,"1,06,102 km",Petrol,1st owner,₹5.92L
 Maruti Baleno DELTA PETROL 1.2,Maruti,2017,"76,591 km",Petrol,1st owner,₹5.17L
 Maruti Dzire VXI AMT,Maruti,2017,"9,056 km",Petrol,1st owner,₹6.75L
 Maruti Swift VXI,Maruti,2017,"41,003 km",Petrol,1st owner,₹6.50L
-Maruti Alto VXI,Maruti,2017,"76,984 km",Petrol,1st owner,₹3.40L
+Maruti Vitara Brezza VXI,Maruti,2017,"32,994 km",Petrol,2nd owner,₹7.46L
 Hyundai VENUE SX 1.0 TURBO IMT,Hyundai,2017,"41,603 km",Petrol,1st owner,₹8.49L
 Maruti S PRESSO VXI PLUS AMT,Maruti,2017,"29,955 km",Petrol,1st owner,₹4.37L
 Tata TIAGO NRG XZ AMT,Tata,2017,"17,787 km",Petrol,2nd owner,₹6.46L
